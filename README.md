@@ -9,3 +9,5 @@ This api can solve the annoying akamai, generate the sensor_data required for be
 {"success":true,"message":"success","data":null,"sensor_data":"7a7423hkswf4sjf2031.75-1,2,-94,-100,Mozilla/5.0 (.............bd4080573cec113453452223545433223,33-1,2,-94,-121,;24;16;2","ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.2355.93 Safari/537.36"}
 
 contact me: https://t.me/shineho
+
+update: 2022-11-11
