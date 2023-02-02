@@ -10,4 +10,4 @@ This api can solve the annoying akamai, generate the sensor_data required for be
 
 contact me: https://t.me/shineho
 
-update: 2022-12-26
+update: 2023-02-02
